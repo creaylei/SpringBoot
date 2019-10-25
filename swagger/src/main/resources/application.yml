@@ -1,0 +1,4 @@
+spring:
+  swagger:
+    base-package: com.springboot         # 扫描包路径
+    enabled: true
